@@ -6,21 +6,11 @@
 
 **Alap URL:** `{{https://127.0.0.1/learningPlatformBearer/public/api}}`
 
-**Verzió:** 1.0
+
 
 ---
 
-## Tartalomjegyzék
 
-1. [Hitelesítés](#hitelesítés)
-2. [Végpontok](#végpontok)
-   - [Regisztráció](#regisztráció)
-   - [Bejelentkezés](#bejelentkezés)
-   - [Kijelentkezés](#kijelentkezés)
-   - [Beiratkozás Kurzusra](#beiratkozás-kurzusra)
-   - [Kurzus Befejezettnek Jelölése](#kurzus-befejezettnek-jelölése)
-3. [Válaszkódok](#válaszkódok)
-4. [Hibakezelés](#hibakezelés)
 
 ---
 
