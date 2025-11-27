@@ -2,9 +2,9 @@
 
 ## Áttekintés
 
-Ez a dokumentum a Tanulási Platform RESTful API-ját írja le. Az API Bearer token hitelesítést és JSON formátumot használ a kérések és válaszok kezelésére.
 
-**Alap URL:** `{{base_url}}`
+
+**Alap URL:** `{{https://127.0.0.1/learningPlatformBearer/public/api}}`
 
 **Verzió:** 1.0
 
