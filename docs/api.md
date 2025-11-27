@@ -397,17 +397,3 @@ curl -X POST {{base_url}}/logout \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer 1|aigX1in5x7oXUY0ynOUnkhti6hHxbHVQFaQW9W1df000c122"
 ```
-
----
-
-## Megjegyzések
-
-- Minden végpont JSON adatokat fogad és ad vissza
-- Mindig add meg az `Accept: application/json` fejlécet
-- A tokeneket a Laravel Sanctum generálja
-- A tokeneket biztonságosan kell tárolni a kliens oldalon
-- Érvénytelen vagy lejárt tokenek 401 Unauthorized választ eredményeznek
-
----
-
-**Utolsó frissítés:** 2025. november 27.
