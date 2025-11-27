@@ -397,3 +397,5 @@ curl -X POST {{base_url}}/logout \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer 1|aigX1in5x7oXUY0ynOUnkhti6hHxbHVQFaQW9W1df000c122"
 ```
+
+---
